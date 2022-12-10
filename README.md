@@ -13,4 +13,4 @@ Instructions for Viscusi Lights
 4. Following that go over to the computer and turn up the sliders for the DIMMING and LINGING on the DMXcontroller_Motor Icon and the Brightness on the DMXcontroller_RGBW.
 
 ![Screenshot 2022-12-09 224441](https://github.com/NYSCIexhibits/ViscusiDMXLights/blob/270b13282b51a39c2fa9c8e52ade1c66212b6284/Screenshot%202022-12-09%20224531.png)
-![Screenshot 2022-12-09 224531]
+![Screenshot 2022-12-09 224531](https://github.com/NYSCIexhibits/ViscusiDMXLights/blob/main/Screenshot%202022-12-09%20224441.png)
