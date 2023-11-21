@@ -6,7 +6,7 @@ Instructions for Viscusi Lights
 
 1. First start by turning the house lights OFF if they are on using the buttons on the wall on either side of the room.
 
-2. Next go into the lighting cloest and turn ON the top two dimmers EM1 and EM2 by holding them in the up position till the Green LEDs are all the way up. This should          turn on a few on the house lights back on.
+2. Next go into the lighting cloest and turn ON the top two dimmers EM1 and EM2 in addition to the 2 labeled Left and right (with green tape) by holding them in the up position till the Green LEDs are all the way up. This should          turn on a few on the house lights back on.
 
 3. Next on the blue lighting board tap the button labeled BLACKOUT once to turn the lights on that are pointed at the ice rink.
 
