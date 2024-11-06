@@ -2,7 +2,7 @@
 
 Instructions for Viscusi Lights
 
-![Screenshot 2022-05-31 210803](https://user-images.githubusercontent.com/26509343/171480884-2bef1173-204a-4824-b419-58b1980ff76f.png)
+![Screenshot 2024-11-06](https://user-images.githubusercontent.com/26509343/171480884-2bef1173-204a-4824-b419-58b1980ff76f.png)
 
 1. First start by turning the house lights OFF if they are on using the buttons on the wall on either side of the room.
 
