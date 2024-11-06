@@ -2,7 +2,7 @@
 
 Instructions for Viscusi Lights
 
-![Screenshot 2024-11-06](https://raw.githubusercontent.com/NYSCIexhibits/ViscusiDMXLights/refs/heads/main/Screenshot%202024-11-06.png?token=GHSAT0AAAAAAC2CNNBHJVE2WG35DR6YLKSAZZLUS6A)
+![Screenshot 2024-11-06](https://raw.githubusercontent.com/NYSCIexhibits/ViscusiDMXLights/refs/heads/main/Screenshot%202024-11-06%20at%2012.33.00%E2%80%AFPM.png?token=GHSAT0AAAAAAC2CNNBHYDHTJWPZ5HXZNDLMZZLVDXA)
 
 1. First start by turning the house lights OFF if they are on using the buttons on the wall on either side of the room.
 
