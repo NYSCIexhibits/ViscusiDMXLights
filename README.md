@@ -1,6 +1,6 @@
 # ViscusiDMXLights
 
-Instructions for Viscusi Lights
+## Instructions for Viscusi Lights
 
 ![Screenshot 2024-11-06](https://raw.githubusercontent.com/NYSCIexhibits/ViscusiDMXLights/refs/heads/main/Screenshot%202024-11-06%20at%2012.33.00%E2%80%AFPM.png?token=GHSAT0AAAAAAC2EF75KH4D4UOY3UA54HOJQZZM3P3A)
 
@@ -14,6 +14,10 @@ Instructions for Viscusi Lights
 
 4. Next power ON the snow lights with the Black remote labeled SNOW LIGHTS. Remember to turn the speed down using the S- button.
 
-5. If the projector isnt already on power it on using the WHITE remote. Use the iPad to play the video on the appleTV. 
+5. If the projector isnt already on power it on using the WHITE remote. Use the iPad to play the video on the appleTV.
 
-Follow the link to the [wiki](https://github.com/NYSCIexhibits/ViscusiDMXLights/wiki) for the lighting map
+6. For snow fall from the snow machine, choose the correct day in the schedule dropdown (Friday, Weekend, Event) and the snow machine should produce snow for 3 min every 12min (3min of snow fall/12min no snow). **NOTE:** This is also coded to only operate during certain times of the day on the selected days. _Example:_ If it is a Tuesday at 11AM and you want snow switch it to events and it should produce snow during the hours we are open (10-5).
+
+![](https://raw.githubusercontent.com/NYSCIexhibits/ViscusiDMXLights/refs/heads/main/Screenshot%202024-11-07%20at%202.52.28%E2%80%AFPM.png)
+
+### Follow the link to the [wiki](https://github.com/NYSCIexhibits/ViscusiDMXLights/wiki) for the lighting map
