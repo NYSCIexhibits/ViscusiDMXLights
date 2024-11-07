@@ -16,4 +16,4 @@ Instructions for Viscusi Lights
 
 5. If the projector isnt already on power it on using the WHITE remote. Use the iPad to play the video on the appleTV. 
 
-
+Follow the link to the [wiki](https://github.com/NYSCIexhibits/ViscusiDMXLights/wiki) for the lighting map
